@@ -19,10 +19,16 @@ div{
     background-color: white;
 }
 body{
-    background-image: url("wow.gif");
-    background-size: 1000px;
+    background-image: url("rick.gif");
+    background-size: 2000px;
     }
 a{
     font-size:30px;
+}
+p1{
+    font-size: 30px;
+    background-color: black;
+    color:white;
+    font-weight:bold;
 }
 
