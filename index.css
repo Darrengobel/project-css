@@ -1,6 +1,8 @@
 h1 {
-    color: black;
-    background: red;
+    color: white;
+    background: black;
+    height:50px;
+    width:120px;
 }
 img {
     height: 500px;
@@ -14,4 +16,13 @@ div{
     margin-bottom: 35px;
     margin-left: 35px;
     width:50%;
+    background-color: white;
 }
+body{
+    background-image: url("wow.gif");
+    background-size: 1000px;
+    }
+a{
+    font-size:30px;
+}
+
